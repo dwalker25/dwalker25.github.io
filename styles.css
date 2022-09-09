@@ -9,3 +9,7 @@ a {
         background-color: lightblue;
       }
 }
+
+*{
+    max-width: 500px;
+}
