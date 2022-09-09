@@ -1,3 +1,14 @@
 #p0{
     color: purple;
 }
+a {
+    color: blue;
+}
+@media screen and (max-width: 1000px) {
+    body {
+        background-color: lightblue;
+      }
+}
+body {
+    background-image: url("background.jpg");
+   }
