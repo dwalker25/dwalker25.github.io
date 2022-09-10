@@ -6,7 +6,16 @@ a {
         background-color: lightblue;
       }
 }
-
-*{
-    max-width: 500px;
+.rainblock {
+    background-color: burlywood;
 }
+.queendead {
+    background-color: rgb(222, 149, 149);
+}
+.shadesblock {
+    background-color: rgb(232, 106, 106);
+}
+.sentpart0 {
+    font-weight: bold;
+}
+
