@@ -6,16 +6,46 @@ a {
         background-color: lightblue;
       }
 }
-.rainblock {
+table, td {
+    border: 1px solid black;
+}
+.block1 {
     background-color: burlywood;
 }
-.queendead {
+.block2 {
     background-color: rgb(222, 149, 149);
 }
-.shadesblock {
+.block3 {
     background-color: rgb(232, 106, 106);
 }
 .sentpart0 {
     font-weight: bold;
+}
+.subtitle{
+    font-weight: bolder;
+}
+li{
+    width: 33%;
+    display: inline-block;
+}
+li:hover{
+    background-color: bisque;
+}
+.text, .misctext, .subtitle{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#homeitalics {
+    font-size: larger;
+}
+#closetext {
+    font-size: large;
+}
+#futurebook {
+    font-style: italic;
 }
 
